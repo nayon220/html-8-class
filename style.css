@@ -1,0 +1,177 @@
+#n1{
+font-size: 50px;
+border-left: 8px solid;
+border-image: linear-gradient(red,red);
+border-image-slice: 1;
+padding-left: 10px;
+}
+#n2{
+    font-size: 50px;
+    color: rgb(255, 157, 0);
+}
+.s1{
+    background-color: tomato;
+    padding: 10px;
+    text-decoration: none;
+font-size: 20px;
+color: white;
+border-radius: 10px;
+margin-top: 10px;
+}
+.middle{
+    display: flex;
+    margin-bottom: 100px;
+
+}
+.middle1{
+    width: 30%;
+    margin-left: 130px;
+    margin-top: 50px;
+    text-align: justify;
+}
+.middle2{
+    width: 30%;
+    margin-right:130px;
+    margin-top:50px;
+    margin-left: 80px;
+    
+}
+.middle2 img{
+    width: 380px;
+    height: 420px;
+}
+.second{
+    display: flex;
+    margin-top: 70px;
+}
+#key{
+    font-size:50px ;
+    margin-left: 35%;
+    margin-top: 100px;
+}
+#color{
+    color:tomato ;
+}
+.box1{
+    width:320px;
+    height: 350px;
+    background-color: grey;
+    border-radius: 10px;
+    padding: 20px;
+    display: block;
+    margin-left: 130px;
+}
+.box1 img{
+    width: 120px;
+    height: 120px;
+}
+.box2{
+    width: 320px;
+    height: 350px;
+    background-color: beige;
+    border-radius: 20px;
+    padding:20px ;
+    display: block;
+    margin-left:30px;
+   
+}
+.box2 img{
+    width: 120px;
+    height: 120px;
+}
+.box3{
+    width: 320px;
+    height: 350px;
+    background-color:rgb(157, 157, 202);
+    border-radius: 20px;
+    padding:20px ;
+    display: block;
+    margin-left:30px;
+}
+.box3 img{
+    width: 120px;
+    height: 120px;
+}
+.pen{
+    width: 30%;
+    margin-right:130px;
+    margin-top:50px;
+    margin-left: 120px;
+}
+.pen1{
+    width: 30%;
+}
+.pen img{
+    width: 400px;
+    height: 400px;
+    
+}
+.third{
+    display: flex;
+    margin-top: 100px;
+}
+#dev{
+    font-size: 50px;
+}
+#mov{
+    background-color: tomato;
+    padding: 10px;
+    text-decoration: none;
+font-size: 20px;
+color: white;
+border-radius: 10px;
+margin-top: 10px;
+}
+.fourth1{
+    width: 30%;
+    margin-left: 130px;
+}
+.pic4{
+    width: 30%;
+    margin-left: 80px;
+}
+.fourth{
+    display: flex;
+    margin-top: 100px;
+}
+.pic4 img{
+    width: 400px;
+    height: 400px;
+}
+.n4{
+    text-align: justify;
+}
+.last img{
+    width: 300px;
+    height: 500px;  
+    margin-left: 130px;
+}
+.fiveth{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.pen5{
+    width: 30%;
+    margin-right:130px;
+    margin-top:50px;
+    margin-left: 120px;
+}
+#fat2{
+    color: brown;
+}
+.fatp{
+text-align: center;
+    font-size: 20px;
+    color: aliceblue;
+}
+#fot{
+    background-color: black;
+    height: 200px;
+    width: 100%;
+}
+.fat1{
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
